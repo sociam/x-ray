@@ -1,0 +1,39 @@
+Host api.branch.io
+Host itunes.apple.com
+Host app.adjust.com [TODO]
+Host e.crashlytics.com
+Host trk.pinterest.com
+Host media-cache-ec0.pinimg.com
+Host api.pinterest.com
+Host media-cache-ak0.pinimg.com
+Host graph.facebook.com
+Host p05-ckdatabase.icloud.com
+Host www.google.com
+Host init-p01st.push.apple.com
+Host s-media-cache-ak0.pinimg.com
+Host bcp.crwdcntrl.net [TODO]
+Host x.skimresources.com [TODO]
+Host securepubads.g.doubleclick.net [TODO]
+Host p.skimresources.com [TODO]
+Host ads.rubiconproject.com [TODO]
+Host js.moatads.com [TODO]
+Host ssp.virool.com [TODO]
+Host nestor.virool.com [TODO]
+Host gum.criteo.com [TODO]
+Host optimized-by.rubiconproject.com [TODO]
+Host battleunits.s3.amazonaws.com [TODO]
+Host tags.mathtag.com [TODO]
+Host pixel.rubiconproject.com [TODO]
+Host loadm.exelator.com 
+Host rb-validation.virool.com
+Host pixel.adsafeprotected.com
+Host api.virool.com
+Host fw.adsafeprotected.com
+Host sc.iasds01.com
+Host dt.adsafeprotected.com
+Host secure.flashtalking.com
+Host mathid.mathtag.com
+Host tap2-cdn.rubiconproject.com
+Host passets-ak.pinterest.com
+Host iphone-ld.apple.com
+found 78 hosts
